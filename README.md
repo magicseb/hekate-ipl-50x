@@ -1,8 +1,6 @@
-# hekate for 5.0.x
+# hekate for 4.x
 
-DO NOT UPDATE TO 5.0.2 FOR THIS
-
-Original by @nwert
+Original by @nwert, ported from [hekate-ipl-50x](https://github.com/Jan4V/hekate-ipl-50x)
 
 ![Image of Hekate](https://upload.wikimedia.org/wikipedia/commons/f/fc/H%C3%A9cate_-_Mallarm%C3%A9.png)
 
