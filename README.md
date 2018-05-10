@@ -1,6 +1,6 @@
 # hekate for 4.x
 
-Original by @nwert, ported from [hekate-ipl-50x](https://github.com/JanV4/hekate-ipl-50x)
+Original by @nwert, ported from [hekate-ipl-50x](https://github.com/Jan4V/hekate-ipl-50x)
 
 ![Image of Hekate](https://upload.wikimedia.org/wikipedia/commons/f/fc/H%C3%A9cate_-_Mallarm%C3%A9.png)
 
